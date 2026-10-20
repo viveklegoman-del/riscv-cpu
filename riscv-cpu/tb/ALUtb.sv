@@ -1,4 +1,3 @@
-//AI Generated Test Bench Below
 timescale 1ns/1ps
 
 module alu_tb;
